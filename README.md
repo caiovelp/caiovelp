@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/caiovelp](https://github.com/caiovelp)
 
-- 📫 How to reach me **caio.hvparannhos@gmail.com**
+- 📫 How to reach me **caio.hvparanhos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
